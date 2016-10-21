@@ -10,7 +10,8 @@
       <form action="query" method="post">
  
     作者名字:<input type="text" name="name"/><input type="submit" value="搜索"/>   
-           
+
    </form>
 </body>
 </html>
+<!-- shiyan -->
